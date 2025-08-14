@@ -91,6 +91,7 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 
 14.  After the file download is complete, switch your board to run mode and press the reset button to see the output
 
+<img width="1920" height="1080" alt="Screenshot 2025-08-14 131257" src="https://github.com/user-attachments/assets/538adc88-9efc-4726-b897-bb59cf585fba" />
 
 
 
